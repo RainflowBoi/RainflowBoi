@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @RainflowBoi
+- 👋 Hi, I’m JayseTheSillyDev
 - 👀 I’m interested in getting better at drawing
-- 🌱 I’m currently learning Linux
+- 🌱 I’m currently learning Linux and GDevelop!
 - 💞️ I’m looking to collaborate on nothing?
 - 📫 How to reach me: Discord
-- 😄 Pronouns: She/They
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm very sweet :) 
 
 <!---
